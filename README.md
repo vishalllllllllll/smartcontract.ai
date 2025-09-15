@@ -1,8 +1,7 @@
 # 🤖 SmartContract.ai
 
 > **AI-Powered Contract Intelligence Platform** - Upload, analyze, and chat with your legal documents using local AI models. No external API costs!
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+> 
 ![Node](https://img.shields.io/badge/node-%3E%3D16-green.svg)
 ![React](https://img.shields.io/badge/react-18-61DAFB.svg)
 ![AI](https://img.shields.io/badge/AI-Ollama%20Local-orange.svg)
@@ -358,8 +357,6 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 ## 🆘 Support
 
-- **🐛 Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/smartcontract-ai/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/smartcontract-ai/discussions)
 - **📧 Email**: smartcontractai2025@gmail.com
 
 ### Common Issues
