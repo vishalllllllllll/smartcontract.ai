@@ -346,10 +346,6 @@ ollama pull nomic-embed-text
 - **Smart PDF Viewer** - Multiple fallback methods for universal compatibility
 - **Efficient OCR** - Tesseract.js + AI cleanup for perfect text extraction
 
-## 📱 Screenshots
-
-*[Add screenshots of your application here when available]*
-
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request.
@@ -359,10 +355,6 @@ We welcome contributions! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
