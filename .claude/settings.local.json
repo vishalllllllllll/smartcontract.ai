@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm start)",
+      "Bash(mongod:*)",
+      "Bash(choco install:*)",
+      "Bash(winget install:*)",
+      "Bash(curl:*)",
+      "Bash(npm run test-setup:*)",
+      "Bash(ollama:*)",
+      "Bash(taskkill:*)",
+      "Bash(cmd //c:*)",
+      "Bash(move:*)",
+      "Bash(dir)",
+      "Bash(npm run build:*)",
+      "Bash(/bashes)",
+      "Bash(dir:*)",
+      "Bash(tasklist)",
+      "Bash(findstr:*)",
+      "Bash(cmd /c:*)",
+      "Bash(netstat:*)",
+      "Bash(npm uninstall:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
