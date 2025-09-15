@@ -248,3 +248,6 @@ tramp
 
 # Project specific
 # Add any project-specific files or directories to ignore
+
+# Claude Code IDE files
+.claude/
